@@ -19,11 +19,10 @@ title: Gita Ayu Salsabila # the main title
 tagline: AI Enthusiast & Data Science Innovator # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  This is personal webpage containing protofolio of Gita Ayu Salsabila who aspires to be a AI Engineer or Data Scientiest
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: 
 
 github:
   username: GitaAyu06 # change to your github username
