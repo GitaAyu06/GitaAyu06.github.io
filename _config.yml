@@ -9,33 +9,30 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Europe/London
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Gita Ayu Salsabila # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: AI Enthusiast & Data Science Innovator # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  I'm an AI enthusiast with a background as a Business Intelligence specialist at Shopee Indonesia, where I developed key data analysis and automation skills, particularly for the Shopee Affiliate program. A Computer Engineering honors graduate from Universitas Indonesia, I specialize in AI and hold certifications in data science and machine learning from Google and Coursera. Co-founder of BACARA, a recognized sign language translation app, I am currently enhancing my AI and machine learning expertise at Imperial College London, aspiring to be a leader and innovator in AI and data science.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://gitaayu06.github.io"
 
 github:
-  username: github_username # change to your github username
-
-twitter:
-  username: twitter_username # change to your twitter username
+  username: GitaAyu06 # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Gita Ayu Salsabila
+  email: g.a.salsabilayuganto@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
