@@ -7,7 +7,7 @@
 
 - type: phone
   icon: "fab fa-phone"
-  url: '+44 07776620757'
+  url: 'tel:+4407776620757'
 
 - type: linkedin
   icon: 'fab fa-linkedin'
